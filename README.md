@@ -1,4 +1,4 @@
-### Hi there 👋  I'm sam.
+### Hi there 👋  
 - ⚡ I'm a PhD student working in the field of radar remote sensing for floods. 
 - 🔭 I’m currently working on EO data based spatial flood forecasting system
 <!--
